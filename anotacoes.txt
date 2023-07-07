@@ -1,0 +1,4 @@
+- Verificar o id do grupo para executar o bot
+- Verificar se a ação já foi feita. Não permitir duplicar ações 
+(caso o evento UpdateChatDefaultBannedRights venha mais de uma 
+vez com o can_send_messages =  true)
